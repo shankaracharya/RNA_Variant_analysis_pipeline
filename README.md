@@ -1,2 +1,2 @@
 # RNA_Variant_analysis_pipeline
-RNA Variant analysis pipeline using GATK Best practices
+Variant analysis pipeline for RNASeq dataset using GATK Best practices
