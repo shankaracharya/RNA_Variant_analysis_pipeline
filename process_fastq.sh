@@ -23,4 +23,5 @@ print_bam=${bam}/final_bam
 vcf=${home}/vcf
 processDir_1pass=${home}/processDir/1_pass
 genomeDir_2pass=${home}/genomeDir_2pass_${SM}
-TMP=/project/umw_john_landers/tmp
+TMP=/path/to/the/temp/directory
+
